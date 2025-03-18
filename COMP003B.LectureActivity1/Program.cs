@@ -1,7 +1,9 @@
-//Author: Roman Villagran
-//Course: COMP003B
-//Faculty: Jonathan Cruz
-//Purpose: My first ASP.NET Cor application
+/*
+ * Author: Roman Villagran
+ * ourse: COMP003B
+ * Faculty: Jonathan Cruz
+ * Purpose: My first ASP.NET Cor application
+ */
 
 namespace COMP003B.LectureActivity1
 {
